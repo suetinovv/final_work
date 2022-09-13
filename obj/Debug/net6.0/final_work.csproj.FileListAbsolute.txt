@@ -1,0 +1,15 @@
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\bin\Debug\net6.0\final_work.exe
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\bin\Debug\net6.0\final_work.deps.json
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\bin\Debug\net6.0\final_work.runtimeconfig.json
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\bin\Debug\net6.0\final_work.dll
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\bin\Debug\net6.0\final_work.pdb
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.csproj.AssemblyReference.cache
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.AssemblyInfoInputs.cache
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.AssemblyInfo.cs
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.csproj.CoreCompileInputs.cache
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.dll
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\refint\final_work.dll
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.pdb
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\final_work.genruntimeconfig.cache
+C:\Users\nikal\OneDrive\Рабочий стол\final_work\obj\Debug\net6.0\ref\final_work.dll
